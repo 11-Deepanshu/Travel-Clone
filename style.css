@@ -1,0 +1,94 @@
+body{
+    background: rgb(219, 247, 247) !important;
+    font-family: "Poppins", sans-serif !important; 
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh !important;
+}
+
+.navbar{
+    /* height: 5.2rem; */
+    background-color: rgb(227, 234, 240);
+}
+
+.fa-solid{
+    font-size: 3rem !important;
+    padding-left: 1.5rem !important;
+    color: rgb(209, 50, 50);
+}
+
+.nav-link{
+    color: rgb(4, 3, 3) !important;
+    font-size: 1.3rem !important;
+}
+.card{
+    margin: 0.3rem 0.7rem 2rem 0.7rem !important;
+    border: none !important;
+    background-color: transparent !important;
+    text-decoration: none !important;
+}
+
+
+.card-image-top{
+    width: 100% !important;
+    height: 100% !important;
+    border-radius: 1rem !important;
+    object-fit: cover !important;
+}
+
+.card-text{
+    font-size: 1.12rem !important;
+}
+
+.card-image{
+    border-radius: 2rem !important;
+    width: 100% !important;
+}
+.link{
+    display: flex;
+    gap: 2rem !important;
+}
+
+
+.form-label{
+    font-size:1.5rem !important;
+}
+
+.card-image{
+    height: 40rem; 
+    width: 50rem;
+}
+
+
+.low{
+    height: 10rem !important;
+    background-color: rgb(227, 234, 240);
+    padding: 1.7rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.socials{
+    padding: 1rem;
+    font-size: 1.8rem;
+}
+
+.fa-brands{
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    color: black;
+}
+
+.name{
+    padding: 0 0.6rem 0 0.6rem;
+    font-size: 1.2rem;
+}
+
+.foot{
+    padding: 0 0.5rem 0 0.5rem;
+    font-size: 1.2rem;
+    text-decoration: none;
+    color: brown;
+}
